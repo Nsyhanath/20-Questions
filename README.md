@@ -94,21 +94,6 @@ Your program should be able to play at least 1 round of 20 questions.
    If yes, the program should write all the binary tree data to a file.  
    This file can be a plain text file.
 
-## Turn in checklist
-All projects will be graded according to the project rubric in Canvas.
-
-Before uploading your project,
-make sure it meets all of the rubric criteria in order to get full credit.
-
-1. Ensure all project requirements are met and all results are correct.
-2. Source code contains no global variables.
-   Globals created as side effects of using library functions are OK (getopt, etc.).
-3. Ensure the intent behind every program element is "crystal clear".
-   Add documentation where it makes sense to do so.
-4. Ensure the top of each source file includes your name and student ID.
-5. The program must enforce the rules of the game.
-   This includes handling error conditions.
-
 ## Details and hints about playing
 As you play one round, 
 your program walks down the tree, 
